@@ -1,6 +1,6 @@
 
 import os
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDTuUgbsi3jDhbSMANfWpn_5PtkMskWQOQ"
+os.environ["GOOGLE_API_KEY"] = ".........................."
 
 # %%
 from langchain_google_genai import GoogleGenerativeAI
